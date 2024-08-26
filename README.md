@@ -11,3 +11,4 @@ List of available receipies:
 1) cowsay.def (https://en.wikipedia.org/wiki/Cowsay)
 2) corsika.def (Minimal image required for running CORSIKA 7 package)
 3) cern-root.def (Minimal image required for running CERN ROOT based applications)
+4) g++.def (Minimal image required for building and running a basic C++ application)
