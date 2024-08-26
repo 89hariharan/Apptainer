@@ -1,0 +1,5 @@
+Bootstrap: docker
+From: ubuntu 
+
+%post
+ apt update && apt install -y -qq build-essential gfortran git cmake
