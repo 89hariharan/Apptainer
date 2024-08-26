@@ -6,6 +6,8 @@ Building apptainer images:
 --------------------------
 $ apptainer build IMAGE.sif RECEIPE.def
 
+List of available receipies:
+----------------------------
 1) cowsay.def (https://en.wikipedia.org/wiki/Cowsay)
 2) corsika.def (Minimal image required for running CORSIKA 7 package)
 3) cern-root.def (Minimal image required for running CERN ROOT based applications)
